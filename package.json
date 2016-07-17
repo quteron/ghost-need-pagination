@@ -1,7 +1,7 @@
 {
   "name": "ghost-need-pagination",
   "version": "0.0.1",
-  "description": "Template to create a cusom npm package",
+  "description": "Custom handlebars helper to show ghost pagination if only it's needed",
   "main": "index.js",
   "scripts": {
     "test": "node_modules/.bin/mocha --reporter spec",
