@@ -1,6 +1,6 @@
 {
   "name": "ghost-need-pagination",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Custom handlebars helper to show ghost pagination if only it's needed",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,8 @@
     "url": "git+https://github.com/quteron/ghost-need-pagination.git"
   },
   "keywords": [
+    "ghost",
+    "pagination",
     "handlebars",
     "handlebars helpers"
   ],
