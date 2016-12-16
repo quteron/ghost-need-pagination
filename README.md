@@ -16,7 +16,7 @@ Register custom helper in the `config.js` ghost file:
 ```javascript
   var need_pagination = require('ghost-need-pagination');
   var hbs = require('express-hbs');
-  hbs.registerHelper('ghost-need-pagination', need_pagination);
+  hbs.registerHelper('need-pagination', need_pagination);
 ```
 
 Update ghost template `partials/pagination.hbs`:
