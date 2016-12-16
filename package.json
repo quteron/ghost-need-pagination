@@ -1,6 +1,6 @@
 {
   "name": "ghost-need-pagination",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "description": "Custom handlebars helper to show ghost pagination if only it's needed",
   "main": "index.js",
   "scripts": {
